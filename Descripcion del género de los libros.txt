@@ -1,0 +1,9 @@
+M -> Misterio
+F -> Fantasía
+R -> Romance
+A -> Aventura
+CF -> Ciencia Ficción
+T -> Terror
+.
+.
+.
