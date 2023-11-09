@@ -2,4 +2,4 @@ CAMBIOS REALIZADOs EN EL CÓDIGO:
 -Se añadió un menú principal que permite elegir entre iniciar sesión o salir del programa
 -Se añadieron funciones de modificación de datos de recepcionistas, pendiente las funciones para modificarlos también en la base de datos
 -Nueva función para mostrar horario (static String mostrarHorarioFormato())
--Se añadió "read.nextLine()" para corregir algunos errores de lectura de datos al intentar leer us String despues de leer un Int
+-Se añadió "read.nextLine()" para corregir algunos errores de lectura de datos al intentar leer un String despues de leer un Int
