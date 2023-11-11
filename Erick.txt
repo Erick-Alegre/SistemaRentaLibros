@@ -5,3 +5,5 @@ CAMBIOS REALIZADOs EN EL CÓDIGO:
 -Se añadió "read.nextLine()" para corregir algunos errores de lectura de datos al intentar leer un String despues de leer un Int
 
 -Se añadieron las funciones para añadir y eliminar recepcionistas, faltarían las opciones para hacer esos cambios en la base de datos
+
+-Se añadió la funcion "actualizarBaseDatosUsuarios();", que modifica el archivo CSV de usuarios una vez se confirma la modificación que se desea realizar en este, CUIDADO al probar sus bases de datos
