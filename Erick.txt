@@ -6,4 +6,6 @@ CAMBIOS REALIZADOs EN EL CÓDIGO:
 
 -Se añadieron las funciones para añadir y eliminar recepcionistas, faltarían las opciones para hacer esos cambios en la base de datos
 
--Se añadió la funcion "actualizarBaseDatosUsuarios();", que modifica el archivo CSV de usuarios una vez se confirma la modificación que se desea realizar en este, TENERLO EN CUENTA al probar sus bases de datos
+-Se añadió la funcion "actualizarBaseDatosUsuarios();", que modifica el archivo CSV de usuarios una vez se confirma la modificación que se desea realizar en este, TENERLO EN CUENTA al probar sus bases de datos (DESACTIVADO TEMPORALMENTE POR INDICACIÓN DEL PROFESOR)
+
+-Se añadieron las funciones de búsqueda (Por Nombre, DNI o Telefono) y filtrado (Por Cantidad de libros prestados o Estado de sanción) de clientes
